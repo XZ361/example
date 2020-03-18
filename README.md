@@ -3,6 +3,6 @@
 
 ## 预览链接
 
-[FullPage滚动页面](https://wangxiaozhan.github.io/example/fullpage.html)
+[FullPage滚动页面](https://wangxiaozhan.github.io/example/FullPage.html)
 
 [返回顶部页面](https://wangxiaozhan.github.io/example/returnTop.html)
